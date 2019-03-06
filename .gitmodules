@@ -1,0 +1,3 @@
+[submodule "todolist_app_flutter"]
+	path = todolist_app_flutter
+	url = https://github.com/mikeZyeman/todolist_app_flutter
